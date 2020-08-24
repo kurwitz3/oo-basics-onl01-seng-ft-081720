@@ -7,7 +7,7 @@ end
      @brand
   end
  def cobble
-   @cobble  
+   @cobble  = "new" 
    puts "Your shoe is as good as new!"
  end
 end
