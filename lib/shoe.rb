@@ -23,4 +23,10 @@ end
   def material
     @material
   end
+  def condition=(condition)
+    @condition = condition 
+  end 
+  def condition 
+    @conditon 
+  end
 end
