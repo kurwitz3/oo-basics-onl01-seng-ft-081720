@@ -6,7 +6,8 @@ end
   def brand
      @brand
   end
- def cobble = "new "
+ def cobble=(cobble = "new")
+   @cobble = cobble 
    puts "Your shoe is as good as new!"
  end
 end
