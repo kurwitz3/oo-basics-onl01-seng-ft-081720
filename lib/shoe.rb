@@ -27,6 +27,6 @@ end
     @condition = condition 
   end 
   def condition 
-    @conditon 
+    @condition 
   end
 end
